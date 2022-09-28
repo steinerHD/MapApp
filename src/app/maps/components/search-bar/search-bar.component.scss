@@ -27,3 +27,14 @@
 .search-container ::placeholder {
     color: white;
 }
+
+.bi {
+        color: white;
+        position: absolute;
+        width: 18px;
+        height: 18px;
+        right: 12px;
+        top: 50%;
+        transform: translateY(-50%);
+    
+}
